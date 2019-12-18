@@ -1,4 +1,4 @@
-# Rodrigo Arancibia Tech Pages
+# Rodrigo Arancibia tech pages
 
 ## Benchmarks
 
