@@ -7,6 +7,7 @@
 
 ## [Building elastic and scalable solutions with Google Cloud Platform](https://medium.com/@rodrigoarancibiapla/building-elastic-and-scalable-solutions-with-google-cloud-platform-fc882cfc12d)
 
+## [Easy mocking in NodeJs](https://rodrigoarancibiapla.medium.com/mocking-nodejs-classes-without-external-libraries-5832b39bfffe)
 
 
 
