@@ -9,5 +9,8 @@
 
 ## [Easy mocking in NodeJs](https://rodrigoarancibiapla.medium.com/mocking-nodejs-classes-without-external-libraries-5832b39bfffe)
 
+## [Module Federation using React and Vite](https://medium.com/@rodrigoarancibiapla/module-federation-using-react-and-vite-f4e75ffcc4b6)
+
+
 
 
