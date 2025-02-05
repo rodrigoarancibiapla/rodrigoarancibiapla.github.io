@@ -11,6 +11,7 @@
 
 ## [Module Federation using React and Vite](https://medium.com/@rodrigoarancibiapla/module-federation-using-react-and-vite-f4e75ffcc4b6)
 
+## [Calling Python Pandas Lib from a React App](https://github.com/rodrigoarancibiapla/etlonline)
 
 
 
