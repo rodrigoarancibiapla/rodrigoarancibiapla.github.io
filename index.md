@@ -15,6 +15,6 @@
 
 ## [Calling Python Pandas library from a React App](https://github.com/rodrigoarancibiapla/etlonline)
 
-## [Mastering docker composer dependencies. A project with Python, FastAPI, Celery and Google Spanner] (https://github.com/rodrigoarancibiapla/celeryevents)
+## [Mastering docker composer dependencies. A project with Python, FastAPI, Celery and Google Spanner](https://github.com/rodrigoarancibiapla/celeryevents)
 
 
